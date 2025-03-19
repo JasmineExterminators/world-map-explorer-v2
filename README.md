@@ -68,7 +68,7 @@ Ensure you have the following installed:
 3. Navigate into the project directory:
 
     ```bash
-    cd WorldMapExplorer
+    cd world-map-explorer-v2
     ```
 
 ---
