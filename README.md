@@ -62,7 +62,7 @@ Ensure you have the following installed:
 2. Run the following command to clone the repository:
 
     ```bash
-    git clone https://github.com/zendalona/WorldMapExplorer.git
+    git clone https://github.com/zendalona/world-map-explorer-v2.git
     ```
 
 3. Navigate into the project directory:
